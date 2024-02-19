@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"it.uniroma1.mdp.controller"},{"l":"it.uniroma1.mdp.model"},{"l":"it.uniroma1.mdp.model.card"},{"l":"it.uniroma1.mdp.model.players"},{"l":"it.uniroma1.mdp.view"},{"l":"it.uniroma1.mdp.view.game"},{"l":"it.uniroma1.mdp.view.utilities"}];updateSearchResults();
